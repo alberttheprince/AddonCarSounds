@@ -49,7 +49,25 @@ data_file 'AUDIO_SOUNDDATA' 'audioconfig/issipissi_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_issipissi'
 ```
 
-As far as I can tell you cannot glob the data_files for audio. You can then listen the files as I've listed. Do not change the format of the files, use it exactly how I've put them and the same naming conventions.
+As far as I can tell you cannot glob the data_files for audio. Do not change the format of the files, use it exactly how I've put them and the same naming conventions.
+
+# How do add audio to your add-on cars
+
+Open the vehicles.meta of the car you want
+
+Find the audioNameHash line and add the filename as it is written in the original file name (match if lower or uppercase):
+```
+      <audioNameHash>roxanne</audioNameHash>
+```
+
+Make sure this is ensured before your Add-on Car resource in the server.cfg
+
+for example
+
+```
+ensure AddonCarSounds
+ensure AddonCars
+```
 
 # Credits
 
