@@ -5,6 +5,7 @@ Want to add add-on car sounds in a single resource? Tired of having dozens of un
 For this, I used:
 
 https://www.gta5-mods.com/vehicles/annis-roxanne-add-on-tuning-sounds-liveries
+https://www.gta5-mods.com/vehicles/maibatsu-sunrise-r-add-on-tuning-liveries-sounds
 
 As an example of how to set this up.
 
