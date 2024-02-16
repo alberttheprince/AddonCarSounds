@@ -13,3 +13,6 @@ files {
 data_file 'AUDIO_GAMEDATA' 'audioconfig/roxanne_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/roxanne_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_roxanne'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/sunrise_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/sunrise_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_sunrise'
