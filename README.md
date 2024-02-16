@@ -22,7 +22,10 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_roxanne'
 
 **These need to match the file names themselves, so don't use the name of the car, use the name of the audio files as you downloaded them.**
 
-Replicate them for your new vehicle, for example for a made-up car addon audio called the issipissi with files named the same:
+
+# How to add them to your fxmanifest.lua
+
+Copy the format already present in the fxmanifest.lua. For example for a made-up car addon audio called the issipissi with files named the same:
 
 ```
 data_file 'AUDIO_GAMEDATA' 'audioconfig/issipissi_game.dat'
