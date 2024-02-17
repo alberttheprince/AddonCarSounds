@@ -79,4 +79,5 @@ ensure AddonCars
 
 # Credits
 
+- Popcorn Roleplay players for putting up with my random testing of audio. [Come join our server and try it out today!](https://discord.gg/popcornroleplay)
 - Thank you dexvo for clarifying/testing globbing in the fxmanifest.lua with regards to the data_file format.
