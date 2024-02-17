@@ -36,6 +36,8 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_issipissi'
 So your fxmanifest.lua should look like this:
 
 ```
+fx_version 'cerulean'
+game 'gta5'
 
 author 'PrinceAlbert'
 description 'Custom Car Audio'
