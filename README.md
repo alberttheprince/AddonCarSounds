@@ -61,7 +61,7 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_issipissi'
 
 As far as I can tell you cannot glob the data_files for audio. Do not change the format of the files, use it exactly how I've put them and the same naming conventions.
 
-# How do add audio to your add-on cars
+# How to add audio to your add-on cars
 
 Open the vehicles.meta of the car you want
 
